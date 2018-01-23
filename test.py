@@ -2,6 +2,6 @@
 # -*- coding: UTF-8 -*-
 
 
-print 'hello'
+print 'hello hello'
 
 
